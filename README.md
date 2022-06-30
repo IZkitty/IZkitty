@@ -1,7 +1,5 @@
-- 🙋 Miss kitty's here
-- 👀 Im Queen♡
+- 🙋 Python Coder
 - 💻 I’m currently learning python
-- 💞️ I love Anime
 - 😁 Newbie
 
 <!---
